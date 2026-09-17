@@ -1,0 +1,4 @@
+interface:
+  display_name: "创意视频剪辑标准"
+  short_description: "按已认可的口播成片标准制作原生包装、语义混剪并核验交付效果"
+  default_prompt: "使用 $creative-video-editing 按已认可的剪辑标准制作本次完整视频，保留原声并按当前素材调整包装。"
